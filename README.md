@@ -13,4 +13,4 @@ This program runs Windows batch scripts silently in the background using a VBScr
 4. Save your changes, close the editor, and then run the file.
 
 ## 🌐 Statistics
-![Alt](https://repobeats.axiom.co/api/embed/8496cd82830d81f57b53e9beddd83b5ee2ee2718.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/62a3da8972cb2e1556c4a1de213d9d3fc9ac67c6.svg "Repobeats analytics image")
