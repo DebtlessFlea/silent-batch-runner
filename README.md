@@ -9,7 +9,7 @@ This program runs Windows batch scripts silently in the background using a VBScr
 ### Steps:
 1. Download or clone this repository to your local machine.
 2. Open the `silent.vbs` file in a text editor (e.g., VS Code, Notepad++).
-3. Replace the `"PATH"` with the full path to your `.bat` script.
+3. Replace `"PATH"` with the full path to your .bat script (e.g., `"C:\full\path\to\your\script.bat"`).
 4. Save your changes, close the editor, and then run the file.
 
 ## 🌐 Statistics
